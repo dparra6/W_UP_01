@@ -86,4 +86,4 @@ Since the p-value is low this means we need to reject this hypothesis. As we can
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-   
+First we found the varibales needed for this problem and in order to find the variables needed we had to look for the right variables under Numerical~Cat.rmd. As we go through numerical~cat as our helper we can find the right variables to be able to put up our graphs. As we use these variables we had to manipulate them and put in pushups, position, and mydata. As we go through the charts we see the big difference between both line players, and skilled players in the end we had to reject this hypothesis, due to the fact that skilled players can do almost 3x more pushups than the line players.  
